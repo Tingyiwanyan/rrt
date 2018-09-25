@@ -1,0 +1,2 @@
+demo
+-DCATKIN_DEVEL_PREFIX=/home/tingyi/ros_rrt/devel -DCMAKE_INSTALL_PREFIX=/home/tingyi/ros_rrt/install -G Unix Makefiles
